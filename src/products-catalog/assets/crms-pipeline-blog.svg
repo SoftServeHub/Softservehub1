@@ -1,0 +1,50 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="36" fill="#07111E"/>
+  <rect width="1200" height="800" rx="36" fill="url(#bg)"/>
+  <circle cx="1015" cy="170" r="170" fill="#38BDF8" fill-opacity="0.16"/>
+  <circle cx="176" cy="670" r="190" fill="#8B5CF6" fill-opacity="0.14"/>
+  <rect x="92" y="92" width="1016" height="616" rx="30" fill="#0E1726" stroke="#23324C"/>
+  <text x="140" y="156" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="34" font-weight="700">CRMS Pipeline Overview</text>
+  <text x="140" y="194" fill="#93C5FD" font-family="Arial, sans-serif" font-size="20">Sales stages, next actions, and team-ready follow-up signals</text>
+
+  <rect x="140" y="240" width="210" height="136" rx="22" fill="#111C2E" stroke="#1E3A5F"/>
+  <text x="174" y="284" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="22" font-weight="700">New Leads</text>
+  <text x="174" y="332" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="44" font-weight="700">124</text>
+  <text x="174" y="360" fill="#94A3B8" font-family="Arial, sans-serif" font-size="16">Captured this week</text>
+
+  <rect x="382" y="240" width="210" height="136" rx="22" fill="#111C2E" stroke="#1E3A5F"/>
+  <text x="416" y="284" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="22" font-weight="700">Qualified</text>
+  <text x="416" y="332" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="44" font-weight="700">47</text>
+  <text x="416" y="360" fill="#94A3B8" font-family="Arial, sans-serif" font-size="16">Ready for outreach</text>
+
+  <rect x="624" y="240" width="210" height="136" rx="22" fill="#111C2E" stroke="#1E3A5F"/>
+  <text x="658" y="284" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="22" font-weight="700">Meetings</text>
+  <text x="658" y="332" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="44" font-weight="700">19</text>
+  <text x="658" y="360" fill="#94A3B8" font-family="Arial, sans-serif" font-size="16">This pipeline cycle</text>
+
+  <rect x="866" y="240" width="194" height="136" rx="22" fill="#111C2E" stroke="#1E3A5F"/>
+  <text x="900" y="284" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="22" font-weight="700">Forecast</text>
+  <text x="900" y="332" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="44" font-weight="700">82%</text>
+  <text x="900" y="360" fill="#94A3B8" font-family="Arial, sans-serif" font-size="16">Deal confidence</text>
+
+  <rect x="140" y="430" width="920" height="222" rx="26" fill="#111C2E" stroke="#1E3A5F"/>
+  <text x="174" y="474" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="26" font-weight="700">Follow-up sequence</text>
+  <rect x="186" y="548" width="176" height="56" rx="18" fill="#1D4ED8"/>
+  <rect x="420" y="548" width="176" height="56" rx="18" fill="#0F766E"/>
+  <rect x="654" y="548" width="176" height="56" rx="18" fill="#7C3AED"/>
+  <rect x="888" y="548" width="128" height="56" rx="18" fill="#EA580C"/>
+  <path d="M362 576H420" stroke="#64748B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M596 576H654" stroke="#64748B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M830 576H888" stroke="#64748B" stroke-width="10" stroke-linecap="round"/>
+  <text x="274" y="582" fill="#DBEAFE" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle" dominant-baseline="middle">Capture</text>
+  <text x="508" y="582" fill="#CCFBF1" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle" dominant-baseline="middle">Score</text>
+  <text x="742" y="582" fill="#F3E8FF" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle" dominant-baseline="middle">Follow Up</text>
+  <text x="952" y="582" fill="#FFEDD5" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle" dominant-baseline="middle">Close</text>
+
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 110) rotate(90) scale(690 1080)">
+      <stop stop-color="#13243C"/>
+      <stop offset="1" stop-color="#07111E"/>
+    </radialGradient>
+  </defs>
+</svg>

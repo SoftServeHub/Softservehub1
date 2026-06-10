@@ -1,0 +1,43 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="36" fill="#07111E"/>
+  <rect width="1200" height="800" rx="36" fill="url(#bg)"/>
+  <circle cx="1040" cy="120" r="160" fill="#14B8A6" fill-opacity="0.15"/>
+  <circle cx="120" cy="690" r="200" fill="#38BDF8" fill-opacity="0.12"/>
+  <rect x="90" y="92" width="1020" height="616" rx="30" fill="#0F1B2D" stroke="#24324A"/>
+  <text x="138" y="156" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="34" font-weight="700">Orbileads Campaign Monitor</text>
+  <text x="138" y="194" fill="#99F6E4" font-family="Arial, sans-serif" font-size="20">Audience segments, message performance, and conversion movement</text>
+
+  <rect x="138" y="242" width="286" height="390" rx="26" fill="#101D31"/>
+  <text x="172" y="290" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="24" font-weight="700">Audience Segments</text>
+  <rect x="172" y="328" width="220" height="52" rx="16" fill="#0B1627" stroke="#1E3A5F"/>
+  <rect x="172" y="398" width="220" height="52" rx="16" fill="#0B1627" stroke="#1E3A5F"/>
+  <rect x="172" y="468" width="220" height="52" rx="16" fill="#0B1627" stroke="#1E3A5F"/>
+  <text x="198" y="360" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="20" font-weight="700">SaaS Founders</text>
+  <text x="198" y="430" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="20" font-weight="700">Retail Ops Teams</text>
+  <text x="198" y="500" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="20" font-weight="700">Agency Owners</text>
+
+  <rect x="460" y="242" width="616" height="180" rx="26" fill="#101D31"/>
+  <text x="494" y="290" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="24" font-weight="700">Reply Performance</text>
+  <path d="M520 360C584 330 618 346 668 320C712 296 768 260 822 286C874 310 916 308 988 248" stroke="#2DD4BF" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="520" cy="360" r="10" fill="#2DD4BF"/>
+  <circle cx="668" cy="320" r="10" fill="#2DD4BF"/>
+  <circle cx="822" cy="286" r="10" fill="#2DD4BF"/>
+  <circle cx="988" cy="248" r="10" fill="#2DD4BF"/>
+
+  <rect x="460" y="452" width="294" height="180" rx="26" fill="#101D31"/>
+  <text x="494" y="500" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="24" font-weight="700">Open Rate</text>
+  <text x="494" y="578" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="54" font-weight="700">63%</text>
+  <text x="494" y="608" fill="#94A3B8" font-family="Arial, sans-serif" font-size="16">Across active outbound flows</text>
+
+  <rect x="782" y="452" width="294" height="180" rx="26" fill="#101D31"/>
+  <text x="816" y="500" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="24" font-weight="700">Qualified Leads</text>
+  <text x="816" y="578" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="54" font-weight="700">148</text>
+  <text x="816" y="608" fill="#94A3B8" font-family="Arial, sans-serif" font-size="16">Moved into sales conversations</text>
+
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 90) rotate(90) scale(720 1080)">
+      <stop stop-color="#12243A"/>
+      <stop offset="1" stop-color="#07111E"/>
+    </radialGradient>
+  </defs>
+</svg>

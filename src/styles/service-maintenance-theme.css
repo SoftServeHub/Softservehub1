@@ -1,0 +1,31 @@
+/* Maintenance Support sections — SoftServe Hub gold / cream theme */
+.service-maintenance-theme > .text-center > h2,
+.service-maintenance-theme > div.text-center > h2 {
+  background-image: linear-gradient(90deg, #0f172a 0%, #92400e 42%, #d4af37 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent !important;
+}
+
+.service-maintenance-theme > .text-center > p,
+.service-maintenance-theme > div.text-center > p {
+  color: #475569 !important;
+}
+
+.service-maintenance-theme .grid > div,
+.service-maintenance-theme .grid > article {
+  background-color: #e5e7eb !important;
+  border-color: rgba(212, 175, 55, 0.35) !important;
+}
+
+.service-maintenance-theme .grid h3 {
+  color: #0f172a !important;
+}
+
+.service-maintenance-theme .grid p {
+  color: #475569 !important;
+}
+
+.service-maintenance-theme .grid span[class*="text-[#92400e]"] {
+  color: #92400e !important;
+}

@@ -1,0 +1,45 @@
+<svg viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a1428;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a0033;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#grad5)"/>
+  
+  <!-- Concentric circles -->
+  <g stroke="rgba(168, 85, 247, 0.15)" stroke-width="2" fill="none">
+    <circle cx="400" cy="300" r="100"/>
+    <circle cx="400" cy="300" r="150"/>
+    <circle cx="400" cy="300" r="200"/>
+    
+    <circle cx="1500" cy="700" r="120"/>
+    <circle cx="1500" cy="700" r="180"/>
+    <circle cx="1500" cy="700" r="240"/>
+  </g>
+  
+  <!-- Center points -->
+  <g fill="rgba(59, 130, 246, 0.4)">
+    <circle cx="400" cy="300" r="8"/>
+    <circle cx="1500" cy="700" r="8"/>
+  </g>
+  
+  <!-- Radial lines from center -->
+  <g stroke="rgba(34, 211, 238, 0.1)" stroke-width="1">
+    <line x1="400" y1="300" x2="400" y2="50"/>
+    <line x1="400" y1="300" x2="600" y2="150"/>
+    <line x1="400" y1="300" x2="650" y2="300"/>
+    <line x1="400" y1="300" x2="600" y2="450"/>
+    <line x1="400" y1="300" x2="400" y2="550"/>
+    <line x1="400" y1="300" x2="200" y2="450"/>
+    <line x1="400" y1="300" x2="150" y2="300"/>
+    <line x1="400" y1="300" x2="200" y2="150"/>
+  </g>
+  
+  <!-- Cross accent -->
+  <g stroke="rgba(168, 85, 247, 0.08)" stroke-width="1">
+    <line x1="0" y1="540" x2="1920" y2="540"/>
+    <line x1="960" y1="0" x2="960" y2="1080"/>
+  </g>
+</svg>

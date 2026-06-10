@@ -1,0 +1,30 @@
+<svg viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a1428;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a0a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="glow1" cx="30%" cy="50%">
+      <stop offset="0%" style="stop-color:rgba(168, 85, 247, 0.3);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgba(168, 85, 247, 0);stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#grad2)"/>
+  
+  <!-- Glowing orbs -->
+  <circle cx="300" cy="300" r="200" fill="url(#glow1)"/>
+  <circle cx="1600" cy="700" r="250" fill="url(#glow1)"/>
+  
+  <!-- Organic wave-like shapes -->
+  <path d="M 0 400 Q 480 350 960 400 T 1920 400 L 1920 1080 L 0 1080 Z" 
+        fill="rgba(59, 130, 246, 0.1)" stroke="none"/>
+  
+  <!-- Mesh gradient lines -->
+  <g stroke="rgba(168, 85, 247, 0.12)" stroke-width="1" opacity="0.5">
+    <path d="M 0 200 Q 960 150 1920 200"/>
+    <path d="M 0 400 Q 960 450 1920 400"/>
+    <path d="M 0 600 Q 960 550 1920 600"/>
+    <path d="M 0 800 Q 960 850 1920 800"/>
+  </g>
+</svg>

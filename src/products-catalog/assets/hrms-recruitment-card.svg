@@ -1,0 +1,73 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="36" fill="#07111E"/>
+  <rect width="1200" height="800" rx="36" fill="url(#bgGlow)"/>
+  <circle cx="205" cy="162" r="150" fill="#14B8A6" fill-opacity="0.18"/>
+  <circle cx="1020" cy="648" r="210" fill="#8B5CF6" fill-opacity="0.18"/>
+  <rect x="88" y="92" width="1024" height="616" rx="30" fill="#0F1B2D" stroke="#24324A"/>
+  <rect x="128" y="132" width="280" height="536" rx="24" fill="#101D31"/>
+  <rect x="440" y="132" width="632" height="286" rx="24" fill="#101D31"/>
+  <rect x="440" y="446" width="632" height="222" rx="24" fill="#101D31"/>
+
+  <rect x="160" y="172" width="216" height="64" rx="18" fill="#12243C"/>
+  <text x="268" y="204" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="30" font-weight="700" text-anchor="middle" dominant-baseline="middle">HRMS</text>
+  <text x="188" y="520" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="28" font-weight="700">Recruitment</text>
+  <text x="188" y="558" fill="#93C5FD" font-family="Arial, sans-serif" font-size="22">Hiring pipeline</text>
+
+  <rect x="160" y="278" width="216" height="110" rx="20" fill="#0B1627" stroke="#1E3A5F"/>
+  <circle cx="210" cy="332" r="26" fill="#38BDF8"/>
+  <path d="M194 340C194 326.745 204.745 316 218 316H222C235.255 316 246 326.745 246 340V348H194V340Z" fill="#E0F2FE"/>
+  <text x="264" y="328" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="22" font-weight="700">82</text>
+  <text x="264" y="356" fill="#94A3B8" font-family="Arial, sans-serif" font-size="16">Active candidates</text>
+
+  <rect x="160" y="410" width="216" height="72" rx="18" fill="#0B1627" stroke="#1E3A5F"/>
+  <rect x="180" y="432" width="90" height="12" rx="6" fill="#22C55E"/>
+  <rect x="180" y="452" width="156" height="10" rx="5" fill="#334155"/>
+  <text x="180" y="470" fill="#94A3B8" font-family="Arial, sans-serif" font-size="14">Interview scheduled</text>
+
+  <rect x="160" y="592" width="216" height="44" rx="14" fill="#14B8A6"/>
+  <text x="268" y="614" fill="#042F2E" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle" dominant-baseline="middle">View Applicants</text>
+
+  <text x="476" y="186" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="28" font-weight="700">Applicant Overview</text>
+  <rect x="476" y="214" width="170" height="12" rx="6" fill="#29405D"/>
+
+  <rect x="476" y="258" width="176" height="124" rx="22" fill="#0B1627" stroke="#1E3A5F"/>
+  <circle cx="532" cy="310" r="32" fill="#A78BFA"/>
+  <path d="M510 320C510 304.536 522.536 292 538 292C553.464 292 566 304.536 566 320V332H510V320Z" fill="#F5F3FF"/>
+  <text x="584" y="300" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="22" font-weight="700">Priya</text>
+  <text x="584" y="328" fill="#93C5FD" font-family="Arial, sans-serif" font-size="16">Frontend Engineer</text>
+  <rect x="584" y="346" width="86" height="24" rx="12" fill="#1D4ED8"/>
+  <text x="627" y="358" fill="#DBEAFE" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle" dominant-baseline="middle">Shortlisted</text>
+
+  <rect x="678" y="258" width="176" height="124" rx="22" fill="#0B1627" stroke="#1E3A5F"/>
+  <circle cx="734" cy="310" r="32" fill="#F59E0B"/>
+  <path d="M712 320C712 304.536 724.536 292 740 292C755.464 292 768 304.536 768 320V332H712V320Z" fill="#FEF3C7"/>
+  <text x="786" y="300" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="22" font-weight="700">Arjun</text>
+  <text x="786" y="328" fill="#93C5FD" font-family="Arial, sans-serif" font-size="16">Operations Lead</text>
+  <rect x="786" y="346" width="90" height="24" rx="12" fill="#0F766E"/>
+  <text x="831" y="358" fill="#CCFBF1" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle" dominant-baseline="middle">Interview</text>
+
+  <rect x="880" y="258" width="156" height="124" rx="22" fill="#0B1627" stroke="#1E3A5F"/>
+  <text x="914" y="294" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="20" font-weight="700">Hiring Funnel</text>
+  <rect x="914" y="316" width="88" height="14" rx="7" fill="#38BDF8"/>
+  <rect x="914" y="340" width="64" height="14" rx="7" fill="#14B8A6"/>
+  <rect x="914" y="364" width="42" height="14" rx="7" fill="#A78BFA"/>
+
+  <text x="476" y="496" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="28" font-weight="700">Recruitment Workflow</text>
+  <rect x="476" y="524" width="220" height="12" rx="6" fill="#29405D"/>
+
+  <circle cx="548" cy="592" r="38" fill="#1D4ED8"/>
+  <circle cx="756" cy="592" r="38" fill="#14B8A6"/>
+  <circle cx="964" cy="592" r="38" fill="#8B5CF6"/>
+  <path d="M586 592H718" stroke="#475569" stroke-width="8" stroke-linecap="round"/>
+  <path d="M794 592H926" stroke="#475569" stroke-width="8" stroke-linecap="round"/>
+  <text x="548" y="592" fill="#DBEAFE" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" dominant-baseline="middle">Apply</text>
+  <text x="756" y="592" fill="#CCFBF1" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" dominant-baseline="middle">Screen</text>
+  <text x="964" y="592" fill="#F3E8FF" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" dominant-baseline="middle">Hire</text>
+
+  <defs>
+    <radialGradient id="bgGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 120) rotate(90) scale(680 1080)">
+      <stop stop-color="#13233C"/>
+      <stop offset="1" stop-color="#07111E"/>
+    </radialGradient>
+  </defs>
+</svg>

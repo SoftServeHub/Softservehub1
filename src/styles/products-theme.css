@@ -1,0 +1,192 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Dots&family=Space+Grotesk:wght@400;500;600;700&display=swap");
+
+/* SoftServe Hub theme overrides for embedded products experience */
+.softserve-products {
+  --ssh-gold: #d4af37;
+  --ssh-gold-light: #f6df9a;
+  --ssh-brown: #92400e;
+  --ssh-ink: #0f172a;
+  --ssh-muted: #52525b;
+  --ssh-bg: #f7f8fa;
+  --ssh-card: #ffffff;
+  --ssh-border: #e2e8f0;
+  background-color: var(--ssh-bg) !important;
+  color: var(--ssh-ink) !important;
+}
+
+.softserve-products section {
+  color: inherit;
+}
+
+/* Hide purple WebGL / silk backgrounds */
+.softserve-products #home .absolute.inset-0.-z-40,
+.softserve-products .absolute.inset-0.z-10:has(canvas) {
+  display: none !important;
+}
+
+.softserve-products #home {
+  background: linear-gradient(
+    180deg,
+    #fff 0%,
+    #f7f8fa 45%,
+    #fffbeb 100%
+  ) !important;
+}
+
+.softserve-products #home .absolute.inset-0.-z-10,
+.softserve-products #home .absolute.-z-20,
+.softserve-products #home .bg-purple-500\/25,
+.softserve-products #home .bg-blue-500\/20 {
+  display: none !important;
+}
+
+/* Typography on dark sections -> light */
+.softserve-products .text-white,
+.softserve-products .text-blue-50\/90,
+.softserve-products h1,
+.softserve-products h2,
+.softserve-products h3 {
+  color: var(--ssh-ink);
+}
+
+.softserve-products #home h1 .text-white,
+.softserve-products #home .text-blue-50\/90 {
+  color: var(--ssh-muted) !important;
+}
+
+.softserve-products .bg-black,
+.softserve-products .bg-gradient-to-b.from-black,
+.softserve-products [class*="from-black"],
+.softserve-products [class*="via-[#0f0f1a]"],
+.softserve-products [class*="bg-black/"] {
+  background-color: var(--ssh-bg) !important;
+  background-image: none !important;
+}
+
+.softserve-products #why,
+.softserve-products #contact,
+.softserve-products #products {
+  background: var(--ssh-bg) !important;
+}
+
+/* Purple / blue gradients -> gold */
+.softserve-products [class*="from-purple"],
+.softserve-products [class*="to-purple"],
+.softserve-products [class*="from-blue"],
+.softserve-products [class*="to-blue"],
+.softserve-products [class*="from-cyan"],
+.softserve-products [class*="to-cyan"],
+.softserve-products [class*="from-violet"],
+.softserve-products [class*="to-violet"],
+.softserve-products [class*="from-pink"],
+.softserve-products [class*="text-violet"],
+.softserve-products [class*="text-purple"],
+.softserve-products [class*="text-cyan"] {
+  --tw-gradient-from: var(--ssh-brown) var(--tw-gradient-from-position);
+  --tw-gradient-to: var(--ssh-gold) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+}
+
+.softserve-products .bg-gradient-to-r.from-purple-500,
+.softserve-products button[class*="from-purple"],
+.softserve-products a[class*="from-purple"] {
+  background-image: linear-gradient(90deg, #d4af37 0%, #f6df9a 100%) !important;
+  color: #09090b !important;
+  border: none !important;
+  box-shadow: 0 12px 36px rgba(212, 175, 55, 0.28) !important;
+}
+
+.softserve-products button[class*="border-white"],
+.softserve-products a[class*="border-white"] {
+  background: white !important;
+  color: var(--ssh-ink) !important;
+  border: 1px solid var(--ssh-border) !important;
+  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.06) !important;
+}
+
+.softserve-products .text-gray-400,
+.softserve-products .text-gray-300,
+.softserve-products .text-gray-200 {
+  color: var(--ssh-muted) !important;
+}
+
+/* Pricing plan feature lists — always readable on light cards */
+.softserve-products .pricing-features-box {
+  background-color: #e5e7eb !important;
+  border-radius: 1rem;
+}
+
+.softserve-products .pricing-features-list,
+.softserve-products .pricing-features-list li,
+.softserve-products .pricing-features-list span,
+.softserve-products .pricing-features-box p {
+  color: #000000 !important;
+}
+
+/* Cards */
+.softserve-products [class*="border-purple"],
+.softserve-products [class*="border-violet"],
+.softserve-products [class*="border-cyan"] {
+  border-color: rgba(212, 175, 55, 0.35) !important;
+}
+
+.softserve-products [class*="bg-purple-"],
+.softserve-products [class*="bg-violet-"],
+.softserve-products [class*="bg-cyan-"] {
+  background-color: rgba(212, 175, 55, 0.08) !important;
+}
+
+/* Product cards & grids */
+.softserve-products .rounded-2xl,
+.softserve-products .rounded-3xl,
+.softserve-products .rounded-xl {
+  background-color: var(--ssh-card);
+}
+
+/* Floating orbs off */
+.softserve-products .blur-\[150px\],
+.softserve-products .blur-\[120px\] {
+  opacity: 0.12 !important;
+  background: radial-gradient(circle, rgba(212, 175, 55, 0.35), transparent) !important;
+}
+
+/* Catalog / detail dark heroes */
+.softserve-products section.bg-black,
+.softserve-products .min-h-screen.bg-black {
+  background: linear-gradient(180deg, #f7f8fa 0%, #ffffff 100%) !important;
+}
+
+.softserve-products .bg-black\/60,
+.softserve-products .bg-black\/65 {
+  background: rgba(247, 248, 250, 0.85) !important;
+}
+
+/* Headline gradient text (exclude products hero headline) */
+.softserve-products .bg-clip-text.text-transparent:not(.products-hero-headline *) {
+  background-image: linear-gradient(
+    90deg,
+    #0f172a 0%,
+    #92400e 42%,
+    #d4af37 100%
+  ) !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+}
+
+.softserve-products .font-azzuri-calcio {
+  font-family: "Azzuri Calcio", "Bebas Neue", "Anton", sans-serif !important;
+}
+
+/* Preserve products hero headline font + letter-spacing */
+.softserve-products .products-hero-headline {
+  font-family: "Zen Dots", "Space Grotesk", "Inter", sans-serif !important;
+  letter-spacing: 0.05em !important;
+}
+
+.softserve-products .products-hero-headline span {
+  letter-spacing: inherit;
+}
+
+.softserve-products .products-hero-headline .bg-clip-text.text-transparent {
+  background-image: linear-gradient(90deg, #0f172a 0%, #92400e 42%, #d4af37 100%) !important;
+}

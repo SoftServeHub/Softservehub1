@@ -10,6 +10,7 @@ const HeroSection = () => (
       <img 
         src="https://images.unsplash.com/photo-1614850523459-c2f4c699c52e?w=1920&q=80" 
         alt="Background"
+        fetchPriority="high"
         className="w-full h-full object-cover"
       />
       <div className="absolute inset-0 bg-gradient-to-br from-black/90 via-black/85 to-emerald-950/50" />

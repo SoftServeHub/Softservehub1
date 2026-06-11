@@ -35,7 +35,7 @@ function ServiceJourneyCard({ src, title, description, to, index }) {
       transition={{ duration: 0.55, delay: index * 0.05, ease: [0.22, 1, 0.36, 1] }}
       className="relative min-h-[260px] overflow-hidden rounded-[1.75rem] border border-[#e2e8f0]/80 shadow-[0_20px_50px_rgba(15,23,42,0.1)]"
     >
-      <img src={src} alt={title} className="absolute inset-0 h-full w-full object-cover" />
+      <img src={src} alt={title} loading="lazy" className="absolute inset-0 h-full w-full object-cover" />
       <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-[#0f172a]/92 via-[#0f172a]/35 to-transparent" />
       <div className="absolute inset-x-0 bottom-0 z-10 p-5">
         <span className="text-[10px] font-bold uppercase tracking-[0.25em] text-[#d4af37]">

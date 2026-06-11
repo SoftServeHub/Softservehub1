@@ -88,9 +88,10 @@ const ProductGrid = ({ onProductClick }: ProductGridProps) => {
                 <div
                   className={`w-full h-24 rounded-xl overflow-hidden mb-5 shadow-lg`}
                 >
-                  <img 
-                    src={product.image} 
+                  <img
+                    src={product.image}
                     alt={product.title}
+                    loading="lazy"
                     className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                   />
                 </div>

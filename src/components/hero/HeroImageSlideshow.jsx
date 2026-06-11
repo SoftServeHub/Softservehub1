@@ -34,6 +34,8 @@ export default function HeroImageSlideshow({
           key={src}
           src={src}
           alt=""
+          loading={i === 0 ? "eager" : "lazy"}
+          fetchPriority={i === 0 ? "high" : "low"}
           className={cn(
             "absolute inset-0 h-full w-full object-cover object-center saturate-[1.05]",
             imageClassName,

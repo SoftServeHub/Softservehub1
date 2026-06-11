@@ -6,7 +6,7 @@ import { cn } from "../../lib/utils";
 function ServiceStackCard({ src, title, description, to }) {
   return (
     <div className="relative h-full min-h-[320px] w-full overflow-hidden rounded-[2rem] border border-[#e2e8f0]/80 shadow-[0_28px_70px_rgba(15,23,42,0.12)]">
-      <img src={src} alt={title} className="absolute inset-0 h-full w-full object-cover" />
+      <img src={src} alt={title} loading="lazy" className="absolute inset-0 h-full w-full object-cover" />
       <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-[#0f172a]/92 via-[#0f172a]/35 to-transparent" />
       <div className="absolute inset-x-0 bottom-0 z-10 p-6 md:p-8">
         <h3 className="text-xl font-bold leading-snug text-white md:text-2xl">{title}</h3>

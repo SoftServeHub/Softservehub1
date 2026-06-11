@@ -166,6 +166,7 @@ const TopProducts: React.FC<TopProductsProps> = ({ onProductClick }) => {
                     <img
                       src={product.image}
                       alt={product.title}
+                      loading="lazy"
                       className="h-full w-full object-cover"
                     />
                   </motion.div>

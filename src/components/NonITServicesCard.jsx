@@ -13,6 +13,7 @@ export default function NonITServicesCard() {
             <img
               src="/services/non-it-services.webp"
               alt="Non IT Services"
+              loading="lazy"
               className="w-full h-full object-cover"
             />
 

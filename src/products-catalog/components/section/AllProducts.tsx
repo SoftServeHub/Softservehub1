@@ -50,6 +50,7 @@ const AllProducts = ({ onProductClick }: AllProductsProps) => {
         <img
           src={bgImage}
           alt="Cubed Bg"
+          loading="lazy"
           className="w-full h-full object-cover object-center"
         />
       </motion.div>
@@ -109,9 +110,10 @@ const AllProducts = ({ onProductClick }: AllProductsProps) => {
                     transition={{ duration: 3, repeat: Infinity }}
                     className={`relative z-10 w-full h-20 md:h-24 lg:h-28 rounded-lg md:rounded-xl overflow-hidden mb-4 md:mb-6`}
                   >
-                    <img 
-                      src={product.image} 
+                    <img
+                      src={product.image}
                       alt={product.title}
+                      loading="lazy"
                       className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                     />
                   </motion.div>

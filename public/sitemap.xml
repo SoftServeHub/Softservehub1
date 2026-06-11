@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Core pages -->
+  <url><loc>https://www.softservehub.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.softservehub.com/about</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.softservehub.com/contact</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.softservehub.com/services</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.softservehub.com/products</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- IT Services -->
+  <url><loc>https://www.softservehub.com/services/it</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/website-web-application-services</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/website-web-application-services/website-design-development</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/website-web-application-services/web-application-development</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/website-web-application-services/saas-application-development</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/website-web-application-services/ecommerce-platform-development</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <url><loc>https://www.softservehub.com/services/it/mobile-application-development</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/mobile-application-development/android-app-development</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/mobile-application-development/ios-app-development</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/mobile-application-development/cross-platform-app-development</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <url><loc>https://www.softservehub.com/services/it/ai-automation-solutions</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/ai-automation-solutions/aiot-solutions</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/ai-automation-solutions/chatbot-development</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/ai-automation-solutions/computer-vision-solutions</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/ai-automation-solutions/machine-learning-solutions</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/ai-automation-solutions/recommendation-engine-development</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/ai-automation-solutions/workflow-automation-rpa</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <url><loc>https://www.softservehub.com/services/it/custom-enterprise-software</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/custom-enterprise-software/crm-services</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/custom-enterprise-software/custom-enterprise-software-development</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/custom-enterprise-software/it-staff-augmentation</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <url><loc>https://www.softservehub.com/services/it/cloud-infrastructure-services</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/cloud-infrastructure-services/application-integrations</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/cloud-infrastructure-services/cloud-migration-services</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <url><loc>https://www.softservehub.com/services/it/cybersecurity-solutions</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/cybersecurity-solutions/data-protection-compliance</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/cybersecurity-solutions/security-audits</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/cybersecurity-solutions/threat-monitoring</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/cybersecurity-solutions/vulnerability-assessment</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <url><loc>https://www.softservehub.com/services/it/staff-augmentation-it-consulting</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/services/it/staff-augmentation-it-consulting/it-staff-augmentation</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- Non-IT Services -->
+  <url><loc>https://www.softservehub.com/services/non-it</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/business-strategy-consulting</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/business-strategy-consulting/business-process-optimisation</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/business-strategy-consulting/digital-transformation-consulting</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/business-strategy-consulting/operational-efficiency-consulting</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <url><loc>https://www.softservehub.com/services/non-it/branding-creative-services</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/branding-creative-services/brand-identity-positioning</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/branding-creative-services/content-management-support</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/branding-creative-services/creative-assets-marketing-design</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/branding-creative-services/ui-ux-creative-design</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/branding-creative-services/website-corporate-content</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <url><loc>https://www.softservehub.com/services/non-it/accounting-financial-operations</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/accounting-financial-operations/accounting-management</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/accounting-financial-operations/bookkeeping-ledger-handling</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/accounting-financial-operations/financial-operations-support</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/accounting-financial-operations/financial-reporting</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <url><loc>https://www.softservehub.com/services/non-it/digital-marketing-services</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/digital-marketing-services/lead-generation-campaigns</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/digital-marketing-services/performance-marketing</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/digital-marketing-services/seo-content-growth</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/digital-marketing-services/social-media-branding</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <url><loc>https://www.softservehub.com/services/non-it/staff-augmentation-workforce-solutions</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/services/non-it/staff-augmentation-workforce-solutions/non-it-staff-augmentation</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- Products -->
+  <url><loc>https://www.softservehub.com/products/secure-messenger</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/products/telecom-bot</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/products/chat-bot</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/products/workflow-automation</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/products/email-automation</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/products/whatsapp-automation</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/products/smart-assistant</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/products/ai-intelligence-hub</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/products/security-shield</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/products/analytics-engine</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/products/orbileads</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/products/hrms</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.softservehub.com/products/crms</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+</urlset>

@@ -107,7 +107,7 @@ const textEntry = (delay = 0) => ({
   },
 });
 
-const copyBlockEntry = (fromLeft) => ({
+const copyBlockEntry = () => ({
   hidden: {},
   visible: {
     transition: { staggerChildren: 0.12, delayChildren: 0.06 },

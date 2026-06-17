@@ -21,7 +21,6 @@ const GRADIENT_TEXT_STYLE = {
 export default function MagneticMorphStack({
   imageSrc,
   images,
-  imageAlt = "SoftServe Hub",
 }) {
   const slideshowImages =
     images?.length > 0 ? images : imageSrc ? [imageSrc] : [];

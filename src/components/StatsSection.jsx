@@ -9,9 +9,6 @@ const stats = [
   { value: 5, suffix: "★", label: "Client Rating" },
 ];
 
-// Apple-style easing
-const appleEase = (t) => 1 - Math.pow(1 - t, 3);
-
 export default function StatsSection() {
   return (
     <section className="bg-[#ffffff] py-10">

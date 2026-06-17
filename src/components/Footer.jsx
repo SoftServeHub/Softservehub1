@@ -5,12 +5,12 @@ import FooterLegacy from "./FooterLegacy.jsx";
 
 export default function Footer() {
   const { pathname } = useLocation();
-  const showStoryTunnel = pathname === "/";
+  const isHome = pathname === "/";
 
   return (
     <>
-      {showStoryTunnel && <StoryTunnel />}
-      <UiloraChainex />
+      {isHome && <StoryTunnel />}
+      {isHome && <UiloraChainex />}
       <FooterLegacy />
     </>
   );

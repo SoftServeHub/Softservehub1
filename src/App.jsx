@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { AnimatePresence, motion } from "framer-motion";
 import NavBar from "./components/NavBar.jsx";
 import Footer from "./components/Footer";
+import ScrollToTop from "./components/ScrollToTop.jsx";
 import LoadingScreen from "./components/LoadingScreen";
 import Home from "./pages/Home.jsx";
 import About from "./pages/About.jsx";
@@ -26,6 +27,7 @@ export default function App() {
 
   return (
     <BrowserRouter>
+      <ScrollToTop />
       <AnimatePresence mode="wait">
         {isLoading ? (
           <LoadingScreen key="loading" />

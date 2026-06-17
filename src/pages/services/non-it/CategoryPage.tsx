@@ -70,7 +70,7 @@ const NonITServiceCategoryPage: React.FC = () => {
 
   const heroImage =
     (activeItem ? NON_IT_HERO_IMAGES[activeItem.slug] : undefined) ??
-    "/non-it-hero/default.png";
+    "/non-it-hero/default.webp";
 
   return (
     <section className="relative min-h-screen bg-[#fffCF0] text-[#1f1605] overflow-hidden">
@@ -172,7 +172,7 @@ const NonITServiceCategoryPage: React.FC = () => {
                   alt={activeItem?.title ?? "Service"}
                   className="w-full h-full object-cover"
                   onError={(e) => {
-                    (e.currentTarget as HTMLImageElement).src = "/non-it-hero/default.png";
+                    (e.currentTarget as HTMLImageElement).src = "/non-it-hero/default.webp";
                   }}
                 />
                 <div className="absolute inset-0 bg-gradient-to-b from-[#fffCF0]/15 via-[#fffCF0]/35 to-[#fffCF0]/90" />

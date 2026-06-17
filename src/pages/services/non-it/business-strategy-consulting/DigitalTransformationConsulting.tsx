@@ -546,7 +546,7 @@ const NonItBusinessStrategyConsultingDigitalTransformationConsulting: React.FC =
                 alt={item.title}
                 className="w-full h-full object-cover"
                 onError={(e) => {
-                  (e.currentTarget as HTMLImageElement).src = "/non-it-hero/default.png";
+                  (e.currentTarget as HTMLImageElement).src = "/non-it-hero/default.webp";
                 }}
               />
               <div className="absolute inset-0 bg-gradient-to-b from-[#fffCF0]/25 via-[#fffCF0]/55 to-[#fffCF0]/95" />

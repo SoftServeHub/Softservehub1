@@ -437,7 +437,7 @@ const ItAiAutomationSolutionsRecommendationEngineDevelopment: React.FC = () => {
                 className="w-full h-full object-cover"
                 onError={(e) => {
                   (e.currentTarget as HTMLImageElement).src =
-                    "/it-hero/default.png";
+                    "/it-hero/default.webp";
                 }}
               />
               <div className="absolute inset-0 bg-gradient-to-b from-[#fffCF0]/25 via-[#fffCF0]/55 to-[#fffCF0]/95" />

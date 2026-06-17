@@ -301,7 +301,7 @@ function EnterpriseSlideCard({
       viewport={{ once: true, amount: 0.45 }}
       transition={{ duration: 0.85, ease }}
     >
-      <div className="overflow-hidden rounded-2xl border border-[#d4d4d8] bg-white shadow-sm md:rounded-3xl">
+      <div className="aspect-4/3 overflow-hidden rounded-2xl border border-[#d4d4d8] bg-white shadow-sm md:rounded-3xl">
         <motion.img
           src={slidePhotoSrc}
           alt=""

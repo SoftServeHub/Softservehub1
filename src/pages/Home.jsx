@@ -14,7 +14,7 @@ export default function Home() {
     <>
       <PageSEO
         title="SoftServe Hub — Innovate. Integrate. Inspire."
-        description="SoftServe Hub builds AI automation, enterprise software and scalable digital platforms. Explore our IT and business services trusted by 80+ clients across 120+ projects."
+        description="SoftServe Hub builds AI automation, enterprise software and scalable digital platforms for IT and business needs, trusted by 80+ clients worldwide."
         canonical="/"
       />
       <HeroSection />
